@@ -20,7 +20,7 @@ module.exports = new function() {
   var metadata = {
     allowConfigUpdate: true, //set to false to turn off REST endpoint of allowing update of metadata
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
-    amzn_appId: "amzn1.ask.skill.2301dbf8-8652-4de4-8a6a-51d6400ad3d3",
+    amzn_appId: "amzn1.ask.skill.bfcd2d0e-c8c1-4144-9763-b5e024ab69f2",
     channelSecretKey: 'JQmwzmAB9AA4QDJxxXdQy9UyjrIGVE3X',
     channelUrl: 'https://AMCEArcorbmxp-gse00014621.mobile.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-3bdacf1b263f4092b82cf23a4493b2e2/listeners/webhook/channels/A454A124-9F96-401C-8701-89041E263A9E'
   };
