@@ -21,8 +21,8 @@ module.exports = new function() {
     allowConfigUpdate: true, //set to false to turn off REST endpoint of allowing update of metadata
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
     amzn_appId: "amzn1.ask.skill.bfcd2d0e-c8c1-4144-9763-b5e024ab69f2",
-    channelSecretKey: 'JQmwzmAB9AA4QDJxxXdQy9UyjrIGVE3X',
-    channelUrl: 'https://AMCEArcorbmxp-gse00014621.mobile.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-3bdacf1b263f4092b82cf23a4493b2e2/listeners/webhook/channels/A454A124-9F96-401C-8701-89041E263A9E'
+    channelSecretKey: 'tU53T30AO3PjAYukyO3xA4m81WyYn0qz',
+    channelUrl: 'https://botv2iad1I0100H203896bots-mpaasocimt.botmxp.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-100b89d671b54afca3069fe360e4bad4/listeners/webhook/channels/b62944d0-b948-472c-9d9a-99efd504e73a'
   };
 
   this.randomIntInc = function (low, high) {
